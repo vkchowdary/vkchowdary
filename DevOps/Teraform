@@ -1,0 +1,14 @@
+What is Terraform in DevOps and Its history & origin?
+
+Hi friend, today in this blog I’ll explain about Terraform in DevOps and Its history & origin as well, lets know about Terraform, It is an open-source tool and it is a multi-cloud, infrastructure-as-code solution, developed by Hashicorp, that makes use of the declarative Hashicorp Configuration Language. It helps you manage existing, popular service providers like GCP, AWS, as well as custom in-house solutions. It manages external resources (such as public cloud infrastructure, private cloud infrastructure, network appliances, software as a service, and platform as a service) with “providers”.
+
+These are the some important points about Terraform
+
+Original author(s) – Mitchell Hashimoto et al.
+Developer(s) – HashiCorp
+Initial release 28 July 2014
+It also supports a Terraform Module Registry, launched in 2017.
+In 2019, Terraform introduced the paid version called Terraform Enterprise for larger organizations.
+How does Terraform work?
+
+
