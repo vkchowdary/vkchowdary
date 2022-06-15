@@ -1,3 +1,2 @@
 Helm is a Kubernetes deployment tool for automating creation, packaging, configuration, and deployment of applications and services to Kubernetes clusters.
-
 Kubernetes is a powerful container-orchestration system for application deployment. There are multiple independent resources to deal with, and each requires a dedicated YAML manifest file.
